@@ -11,6 +11,20 @@ Currently training at 4Geeks Academy, I’m focused on mastering predictive mode
 I thrive on building clear, well-documented projects that help make data-driven decisions accessible and actionable.
 
 ---
+## 🌱 Learn in Public  
+
+I believe in learning by sharing — documenting my progress, mistakes, and wins as I grow in machine learning.  
+Here’s what I’m currently exploring and posting about:  
+---
+- 🧩 Building my first end-to-end ML pipeline from data cleaning to model deployment  
+- 🧠 Understanding neural networks and experimenting with TensorFlow  
+- 📊 Improving model performance with cross-validation and hyperparameter tuning  
+- 💡 Sharing weekly reflections and mini-projects from my 4Geeks bootcamp  
+- 🧵 Writing summaries and “aha moments” from my data science journey on LinkedIn  
+
+> *“When you teach what you learn, you remember twice as much.”*
+
+
 
 ## 🔍 Quick Facts About Me  
 
