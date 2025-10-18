@@ -14,7 +14,7 @@ I thrive on building clear, well-documented projects that help make data-driven 
 ## 🌱 Learn in Public  
 
 I believe in learning by sharing — documenting my progress, mistakes, and wins as I grow in machine learning.  
-Here’s what I’m currently exploring and posting about:  
+Here’s what I’m currently exploring and posting about: https://vercel.com/tenika-powells-projects/nikkilabesf
 ---
 - 🧩 Building my first end-to-end ML pipeline from data cleaning to model deployment  
 - 🧠 Understanding neural networks and experimenting with TensorFlow  
