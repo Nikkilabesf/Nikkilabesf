@@ -1,11 +1,11 @@
 <!-- 💖🌸───────────────────────────────🌸💖 -->
 <div align="center">
 
-<img src="https://i.imgur.com/Ul8F4hO.png" width="100" alt="sparkle"/>
+<img src="https://i.imgur.com/Ul8F4hO.png" width="100" alt="sparkles"/>
 
-# 💕✨ Tenika’s Open Data Locker ✨💕  
-### *“Welcome inside my pink-coded AI world.”*  
-💻☁️🩷🧠🌷  
+# 💕✨ Tenika Powell ✨💕  
+### *Machine Learning Engineer in Training | Data Science Student @ 4Geeks Academy*  
+💻☁️🩷🧠🌷
 
 <img src="https://i.imgur.com/ZAbjYwK.gif" width="300" alt="divider"/>
 
@@ -15,59 +15,65 @@
 
 <table>
 <tr>
-<td width="45%" align="center" valign="top">
+<td width="40%" align="center" valign="top">
 
-<!-- LEFT SIDE - LOCKER DOOR -->
+<!-- LEFT SIDE / PERSONAL INFO -->
 <img src="https://i.imgur.com/YOURPHOTO.png" width="200" style="border-radius:20px; box-shadow:0 0 15px #ff9ecb;" alt="Tenika"/>
 
-### 💞 My Locker Door  
-🩰 *Pinned with dreams, sticky notes, and pink code snippets.*
+### 👋 About Me  
+Hi, I’m **Tenika Powell**, a data science student and aspiring **Machine Learning Engineer** passionate about connecting healthcare and artificial intelligence.  
 
-💬 “Be soft, even in the places that taught you to be hard.”  
-💗 *Healthcare ➜ Machine Learning ➜ Human Impact.*
+Currently training at **4Geeks Academy**, I’m mastering **predictive modeling**, **deep learning**, and **Python-based pipelines** to turn real-world data into human-centered insights.  
 
-🌸 **Stickers & Moodboard:**  
-<img src="https://i.imgur.com/Ul8F4hO.png" width="40"/>  
-<img src="https://i.imgur.com/ZAbjYwK.gif" width="40"/>  
-<img src="https://i.imgur.com/Ul8F4hO.png" width="40"/>  
+> 💡 *“Learning is my aesthetic. Growth is my goal.”*
 
-🎀 *Add your selfies, pink AI aesthetics, or project thumbnails here!*  
+📍 Based in Michigan  
+🎓 Background in Healthcare & Data Analytics  
+💬 Loves AI, visualization, and simplifying complex data  
+
+🔗 **Connect With Me**  
+[🌸 LinkedIn](https://www.linkedin.com/in/tenika-powell-ba35022b0/) • [💖 GitHub](https://github.com/Nikkilabesf) • [💅 Portfolio](https://vercel.com/tenika-powells-projects/nikkilabesf)
 
 </td>
 
-<td width="55%" valign="top">
+<td width="60%" valign="top">
 
-<!-- RIGHT SIDE - INSIDE LOCKER -->
-<h3 align="center">🧠 About Me</h3>
+<!-- RIGHT SIDE / TECH & PROJECTS -->
 
-I’m **Tenika Powell**, a data science student and aspiring **Machine Learning Engineer** @ 4Geeks Academy.  
-I’m passionate about **bridging healthcare and AI** — designing models that feel purposeful, ethical, and human-centered 💕  
+## 🧩 Tech Stack  
 
-💡 *"Learning is my aesthetic. Growth is my goal."*
-
-- 🧩 Building end-to-end ML pipelines  
-- 🧠 Exploring neural networks & transformers  
-- 💫 Tuning models for real-world healthcare use  
-- 💕 Sharing projects and reflections on [LinkedIn](https://www.linkedin.com/in/tenika-powell-ba35022b0/)  
-- 🩷 Portfolio: [Vercel Projects](https://vercel.com/tenika-powells-projects/nikkilabesf)  
-
----
-
-<h3 align="center">💻 Tech Stack</h3>
-
-| Languages | Libraries | Tools | Concepts |
+| **Languages** | **Libraries** | **Tools** | **Concepts** |
 |:--:|:--:|:--:|:--:|
-| 🐍 Python | 🤖 TensorFlow, Pandas, Scikit-learn | 💻 Jupyter, VS Code | 🧹 Data Cleaning |
-| 🗄 SQL | 🎨 Matplotlib, Seaborn | ☁️ Kaggle, GitHub | 🔍 Cross-Validation |
+| 🐍 Python | 🤖 TensorFlow, Scikit-learn, Pandas | 💻 Jupyter, VS Code | 🧹 Data Cleaning |
+| 🗄 SQL | 🎨 Matplotlib, Seaborn | ☁️ Kaggle, GitHub | 🔍 Feature Engineering, Tuning |
 
 ---
 
-<h3 align="center">📚 Featured Projects</h3>
+## 📚 Featured Projects  
 
-🏥 **Hospital Readmission Predictor** — TensorFlow + Scikit-learn model predicting diabetic patient readmissions  
-💰 **Health Insurance Cost Estimator** — Regression model forecasting insurance costs  
-📊 **Bank Campaign Classifier** — Logistic regression predicting deposit outcomes  
-🧠 **Mini Neural Network (12 Neurons)** — Exploring healthcare datasets
+🏥 **Hospital Readmission Predictor**  
+> TensorFlow + Scikit-learn model that predicts diabetic patient readmissions using medical data analysis.  
+
+💰 **Health Insurance Cost Estimator**  
+> Regression model that forecasts insurance premiums from BMI, age, and lifestyle factors.  
+
+📊 **Bank Campaign Classifier**  
+> Logistic regression classifier predicting deposit conversion likelihood from campaign data.  
+
+🧠 **Neural Network (12 Neurons)**  
+> Custom TensorFlow model exploring training behavior on small healthcare datasets.  
+
+---
+
+## 🌷 Upcoming Project: **MoodLens**  
+> *AI-powered Emotion Recognition & Mental State Monitoring System*  
+
+🧩 Built with TensorFlow + OpenCV + NLP sentiment models  
+💬 Detects emotional tone through text and facial cues  
+🎨 Includes real-time dashboard for mood visualization  
+☁️ Planned deployment with FastAPI + Hugging Face  
+
+> *Goal: Build compassionate AI tools that help humans understand themselves better.*  
 
 </td>
 </tr>
@@ -85,19 +91,16 @@ I’m passionate about **bridging healthcare and AI** — designing models that 
 
 ---
 
-<!-- 💖🌸───────────────────────────────🌸💖 -->
 <div align="center">
 
 <img src="https://i.imgur.com/ZAbjYwK.gif" width="250" alt="divider"/>
 
-### 💕✨ Thanks for opening my locker! ✨💕  
-💌 *Stay curious, stay pink, and keep coding beautifully.*  
+### 💕✨ Thank You for Visiting ✨💕  
+💌 *Stay curious, stay creative, and keep coding beautifully.*  
 
 <img src="https://i.imgur.com/Ul8F4hO.png" width="80" alt="sparkles"/>
-
-**Connect with me:**  
-[🌸 LinkedIn](https://www.linkedin.com/in/tenika-powell-ba35022b0/) • [💖 GitHub](https://github.com/Nikkilabesf) • [💅 Portfolio](https://vercel.com/tenika-powells-projects/nikkilabesf)
 
 </div>
 
 <!-- 💖🌸───────────────────────────────🌸💖 -->
+
