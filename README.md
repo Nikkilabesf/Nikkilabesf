@@ -62,8 +62,11 @@ Currently training at **4Geeks Academy**, I’m mastering **predictive modeling*
 📊 **Bank Campaign Classifier**  
 > Logistic regression classifier predicting deposit conversion likelihood from campaign data.  
 
-🧠 **Neural Network (12 Neurons)**  
-> Custom TensorFlow model exploring training behavior on small healthcare datasets.  
+🧬 **CAFA-6 Protein Function Prediction (Deep Learning Project)**  
+> Advanced **bioinformatics exploration** using **PROTBERT embeddings** and TensorFlow.  
+> Built and evaluated deep neural networks for **protein function classification**, visualized **amino acid correlations**, and applied **dimensionality reduction** for insight.  
+> 🧠 *Goal:* Bridge computational biology and deep learning for medical innovation.  
+> 🧩 *Stack:* TensorFlow · Pandas · Matplotlib · PROTBERT · Bioinformatics Datasets 
 
 <img src="https://i.pinimg.com/originals/bc/dc/7c/bcdc7ccaa47331d7c58b5e68f7d1c79e.gif" width="500" alt="pink sparkles divider"/>
 
