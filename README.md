@@ -52,15 +52,16 @@ Currently training at **4Geeks Academy**, I’m mastering **predictive modeling*
 ---
 
 ## 📚 Featured Projects  
+.🏥 **Hospital Readmission Predictor**  
+> Built with TensorFlow + Scikit-learn to predict **diabetic patient readmissions** from hospital data.  
+> Integrated feature selection, data visualization, and multiple model comparisons.  
+> 🔍 *Goal:* Reduce hospital costs and improve patient outcomes using data-driven predictions.
+  
 
-🏥 **Hospital Readmission Predictor**  
-> TensorFlow + Scikit-learn model that predicts diabetic patient readmissions using medical data analysis.  
+🧠 **Neural Network (12 Neurons)**  
+> Designed and trained a simple feed-forward model to study overfitting behavior on small healthcare datasets.  
+> Implemented early stopping, callbacks, and visualization for model interpretability.
 
-💰 **Health Insurance Cost Estimator**  
-> Regression model that forecasts insurance premiums from BMI, age, and lifestyle factors.  
-
-📊 **Bank Campaign Classifier**  
-> Logistic regression classifier predicting deposit conversion likelihood from campaign data.  
 
 🧬 **CAFA-6 Protein Function Prediction (Deep Learning Project)**  
 > Advanced **bioinformatics exploration** using **PROTBERT embeddings** and TensorFlow.  
