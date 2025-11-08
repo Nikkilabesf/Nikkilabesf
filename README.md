@@ -1,7 +1,7 @@
 <!-- 💖🌸───────────────────────────────🌸💖 -->
 <div align="center">
 
-<img src="https://i.imgur.com/ZAbjYwK.gif" width="120" alt="sparkle animation"/>
+
 
 # 💕✨ Tenika Powell ✨💕  
 ### *Machine Learning Engineer in Training | Data Science Student @ 4Geeks Academy*  
