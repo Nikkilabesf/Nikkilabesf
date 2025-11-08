@@ -1,13 +1,13 @@
 <!-- 💖🌸───────────────────────────────🌸💖 -->
 <div align="center">
 
-<img src="https://i.imgur.com/Ul8F4hO.png" width="100" alt="sparkles"/>
+<img src="https://i.imgur.com/ZAbjYwK.gif" width="120" alt="sparkle animation"/>
 
 # 💕✨ Tenika Powell ✨💕  
 ### *Machine Learning Engineer in Training | Data Science Student @ 4Geeks Academy*  
 💻☁️🩷🧠🌷
 
-<img src="https://i.imgur.com/ZAbjYwK.gif" width="300" alt="divider"/>
+<img src="https://i.pinimg.com/originals/14/35/44/143544f4f2dd67e4df0f67e6e0d4aaf9.gif" width="400" alt="pink shimmer divider"/>
 
 </div>
 
@@ -18,7 +18,7 @@
 <td width="40%" align="center" valign="top">
 
 <!-- LEFT SIDE / PERSONAL INFO -->
-<img src="https://i.imgur.com/YOURPHOTO.png" width="200" style="border-radius:20px; box-shadow:0 0 15px #ff9ecb;" alt="Tenika"/>
+<img src="https://i.pinimg.com/originals/fb/09/34/fb093438b281228db6f810c871adac8a.gif" width="210" style="border-radius:20px; box-shadow:0 0 15px #ffb6d9;" alt="Tenika aesthetic"/>
 
 ### 👋 About Me  
 Hi, I’m **Tenika Powell**, a data science student and aspiring **Machine Learning Engineer** passionate about connecting healthcare and artificial intelligence.  
@@ -47,6 +47,8 @@ Currently training at **4Geeks Academy**, I’m mastering **predictive modeling*
 | 🐍 Python | 🤖 TensorFlow, Scikit-learn, Pandas | 💻 Jupyter, VS Code | 🧹 Data Cleaning |
 | 🗄 SQL | 🎨 Matplotlib, Seaborn | ☁️ Kaggle, GitHub | 🔍 Feature Engineering, Tuning |
 
+<img src="https://i.pinimg.com/originals/eb/18/d7/eb18d72bcb99959e5de0e48ab8b062ce.gif" width="500" alt="soft pink divider"/>
+
 ---
 
 ## 📚 Featured Projects  
@@ -63,6 +65,8 @@ Currently training at **4Geeks Academy**, I’m mastering **predictive modeling*
 🧠 **Neural Network (12 Neurons)**  
 > Custom TensorFlow model exploring training behavior on small healthcare datasets.  
 
+<img src="https://i.pinimg.com/originals/bc/dc/7c/bcdc7ccaa47331d7c58b5e68f7d1c79e.gif" width="500" alt="pink sparkles divider"/>
+
 ---
 
 ## 🌷 Upcoming Project: **MoodLens**  
@@ -74,6 +78,8 @@ Currently training at **4Geeks Academy**, I’m mastering **predictive modeling*
 ☁️ Planned deployment with FastAPI + Hugging Face  
 
 > *Goal: Build compassionate AI tools that help humans understand themselves better.*  
+
+<img src="https://i.pinimg.com/originals/49/25/8e/49258e1c778b814cf7db2605b22461d7.gif" width="500" alt="flowy pink glow"/>
 
 </td>
 </tr>
@@ -93,14 +99,15 @@ Currently training at **4Geeks Academy**, I’m mastering **predictive modeling*
 
 <div align="center">
 
-<img src="https://i.imgur.com/ZAbjYwK.gif" width="250" alt="divider"/>
+<img src="https://i.pinimg.com/originals/b9/2c/ab/b92cab097ad8ef418dc3d4472eb17c9b.gif" width="250" alt="divider"/>
 
 ### 💕✨ Thank You for Visiting ✨💕  
 💌 *Stay curious, stay creative, and keep coding beautifully.*  
 
-<img src="https://i.imgur.com/Ul8F4hO.png" width="80" alt="sparkles"/>
+<img src="https://i.pinimg.com/originals/14/35/44/143544f4f2dd67e4df0f67e6e0d4aaf9.gif" width="100" alt="sparkles"/>
 
 </div>
 
 <!-- 💖🌸───────────────────────────────🌸💖 -->
+
 
